@@ -1,6 +1,15 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->berschirker.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">.____    ____________   _______________
+|    |   \_____  \   \ /   /\_   _____/
+|    |    /   |   \   Y   /  |    __)_ 
+|    |___/    |    \     /   |        \
+|_______ \_______  /\___/   /_______  /
+        \/       \/                 \/ 
+   _____  ___________________________  ._____________ 
+  /  _  \ \_   _____/\_   _____/  _  \ |   \______   \
+ /  /_\  \ |    __)   |    __)/  /_\  \|   ||       _/
+/    |    \|     \    |     \/    |    \   ||    |   \
+\____|__  /\___  /    \___  /\____|__  /___||____|_  /
+        \/     \/         \/         \/            \/ </span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
