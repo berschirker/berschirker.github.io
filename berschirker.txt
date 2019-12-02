@@ -1,6 +1,11 @@
 <span id="a">brian@loveaffair.info</span>:<span id="b">~</span><span id="c">$</span> cd berschirker/<!-- laglaglaglaglaglag -->README.md
 <span id="a">rigel@loveaffair.info</span>:<span id="b">~</span><span id="c">$</span> <!-- laglaglaglaglaglaglaglaglag -->berschirker.txt<br/><br/><span id="k"> 
-<embed src="https://github.com/berschirker/berschirker.github.io/blob/master/banner.txt" width="500" height="300">
+        <div id="ascii-gallery" class="ascii-default-style"></div>
+        <script type="text/javascript">
+             var ascii_text="LOVE AFFAIR";
+             var ascii_style="isometric1";
+        </script>
+        <script type="text/javascript" src="https://textart.io/gadgets/ascii.figlet.js"></script>
 <!-- sjkfhskjf -->
 </span>
        
