@@ -1,7 +1,8 @@
 <span id="a">brian@loveaffair.info</span>:<span id="b">~</span><span id="c">$</span> cd berschirker/<!-- laglaglaglaglaglag -->About_Us
 <span id="a">rigel@loveaffair.info</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->berschirker.txt<br/><br/><span id="k"> 
 
-<!-- sjkfhskjf --></span>".
+<!-- sjkfhskjf -->
+</span>".
        
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
