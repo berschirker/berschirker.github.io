@@ -6,9 +6,10 @@
 |    |   \_____  \   \ /   /\_   _____/   /  _  \ \_   _____/\_   _____/  _  \ |   \______   \
 |    |    /   |   \   Y   /  |    __)_   /  /_\  \ |    __)   |    __)/  /_\  \|   ||       _/
 |    |___/    |    \     /   |        \ /    |    \|     \    |     \/    |    \   ||    |   \
-|_______/\_________/\___/   /_________/ \____|____/\_____/    \_____/\____|____/___||____|_ _/ </span>.<!-- sjkfhskjf -->
+|_______ \_______  /\___/   /_______  / \____|__  /\___  /    \___  /\____|__  /___||____|_  /
+        \/       \/                 \/          \/     \/         \/         \/            \/ 
 
-</pre>
+</pre></span>.<!-- sjkfhskjf -->
        
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
