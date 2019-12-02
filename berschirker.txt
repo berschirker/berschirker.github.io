@@ -1,13 +1,14 @@
 <span id="a">brian@schirk</span>:<span id="b">~</span><span id="c">$</span> cd berschirker/<!-- laglaglaglaglaglag -->About_Us
 <span id="a">rigel@rozanski</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->berschirker.txt<br/><br/><span id="k"> 
 
-
+<pre>
 .____    ____________   _______________    _____  ___________________________  ._____________ 
 |    |   \_____  \   \ /   /\_   _____/   /  _  \ \_   _____/\_   _____/  _  \ |   \______   \
 |    |    /   |   \   Y   /  |    __)_   /  /_\  \ |    __)   |    __)/  /_\  \|   ||       _/
 |    |___/    |    \     /   |        \ /    |    \|     \    |     \/    |    \   ||    |   \
 |_______/\_________/\___/   /_________/ \____|____/\_____/    \_____/\____|____/___||____|_ _/ </span>.<!-- sjkfhskjf -->
 
+</pre>
        
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
