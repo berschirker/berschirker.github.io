@@ -1,4 +1,5 @@
-Love Affair is a decentralized and open-source non-profit organization that aims to unleash the creativity of our community through technology, art, music, dance, fashion, and connection, with a commitment to absolute transparancy.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<center>Welcome to loveaffair.info</center>
+<p>Love Affair is a decentralized and open-source non-profit organization that aims to unleash the creativity of our community through technology, art, music, dance, fashion, and connection, with a commitment to absolute transparancy.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>We are currently looking for individuals with an interest in community building to collaborate with us on our first event.</p>
 <p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->Love Affair is a living product of all those who participate with their time, energy, and love.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag --></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>For more information, visit us on <a href="https://github.com/loveaffair69/loveaffair" target="_blank">GitHub</a>.</p>
