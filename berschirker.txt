@@ -1,5 +1,5 @@
 
-    <span id="k">DO YOU LIKE TO PARTY?</span> <!-- sjkfhskjf -->
+    <span id="k">DO YOU LIKE TO PARTY?</span> <!-- sjkfhskjf -->        <br/><br/>
   
    <br><br><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
 
@@ -7,7 +7,13 @@
 list of responsibilities integral to the operation of Love Affair can be found
 [here](./COOPERATIONS.md).
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+<<<<<<< HEAD
        </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+=======
+If you are interested in working with us, but don't see anything listed that
+fits your skillset, please tell us how you would like to contribute. We are
+open to collaboration in all forms.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+>>>>>>> parent of b625e5f... Update berschirker.txt
 <p> # Love Affair
 
 Love Affair is currently looking for individuals with an interest in community building to collaborate with us on our first event<br>
