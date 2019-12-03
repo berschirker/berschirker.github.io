@@ -1,5 +1,5 @@
         <br/><br/>
-<span id="k">
+<span id="k"><pre>
       ___       ___           ___           ___                    ___           ___           ___           ___                       ___     
      /\__\     /\  \         /\__\         /\  \                  /\  \         /\  \         /\  \         /\  \          ___        /\  \    
     /:/  /    /::\  \       /:/  /        /::\  \                /::\  \       /::\  \       /::\  \       /::\  \        /\  \      /::\  \   
@@ -12,8 +12,8 @@
     \:\__\    \::/  /       ~~~~          \:\__\                  /:/  /                                    /:/  /      \/__/        |:|  |    
      \/__/     \/__/                       \/__/                  \/__/                                     \/__/                     \|__|    
      
-    <br><br><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
-    DO YOU LIKE TO PARTY?</span> <!-- sjkfhskjf -->
+    </pre><br><br><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+    DO YOU LIKE TO PARTY? <!-- sjkfhskjf --></span>
 
 Love Affair is currently looking for individuals with an interest in community
 building to collaborate with us on our first event. No experience necessary. A
