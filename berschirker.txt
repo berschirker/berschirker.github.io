@@ -1,5 +1,8 @@
-<span id="a">SHREK</span>:<span id="b">~</span><span id="c">$</span> cd L0V34FF41R69/<!-- kjsdfhkjdhsfkjdshfkj -->README.md
-<span id="a">FP42K</span>:<span id="b">~</span><span id="c">$</span> cd <!-- kjsdfhkjdhsfkjdshfkj -->LA69WEBPAGE<br/><br/>
+        <html><div id="ascii-gallery" class="ascii-default-style"></div>
+        <script type="text/javascript">
+             var ascii_text="LOVE AFFAIR";
+             var ascii_style="isometric1";
+        </script><br/><br/></html>
 <span id="k">DO YOU LIKE TO PARTY? (Y/N)</span> <!-- sjkfhskjf -->
 
 Love Affair is currently looking for individuals with an interest in community
