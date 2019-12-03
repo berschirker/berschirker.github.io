@@ -3,19 +3,19 @@
   
    <br><br><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
 
-Love Affair is currently looking for individuals with an interest in community
-building to collaborate with us on our first event. No experience necessary. A
+ A
 list of responsibilities integral to the operation of Love Affair can be found
 [here](./COOPERATIONS.md).
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
        </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p><br/><br/> # Love Affair
+<p> # Love Affair
 
+Love Affair is currently looking for individuals with an interest in community building to collaborate with us on our first event<br>
+No experience necessary.<br>
 Love Affair is an open-source platform that aims to unleash the
 creativity of our community through technology, art, music, dance, fashion, and
 connection. Love Affair is collaborative and transparent in its entirety, it is
 a living product of all those who participate with their time, energy, and love.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p><br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj --><br><br>
+<p><br><br><a href="https://github.com/loveaffair69/loveaffair/README.md">Learn more</a> about Love Affair.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj --><br>
 <p><br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
-
-You can also give your email ID for contacting you<!-- slightdelayhere-->, join our community-<!-- longlonglongcomment --><a href="contribute@loveaffair.info">here</a>.
+<!-- slightdelayhere-->, join our community-<!-- longlonglongcomment --><a href="contribute@loveaffair.info">here</a>.
