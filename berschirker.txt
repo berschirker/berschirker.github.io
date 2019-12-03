@@ -1,8 +1,4 @@
-        <html><div id="ascii-gallery" class="ascii-default-style"></div>
-        <script type="text/javascript">
-             var ascii_text="LOVE AFFAIR";
-             var ascii_style="isometric1";
-        </script></html><br/><br/>
+        <br/><br/>
 <span id="k">DO YOU LIKE TO PARTY? (Y/N)</span> <!-- sjkfhskjf -->
 
 Love Affair is currently looking for individuals with an interest in community
