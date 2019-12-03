@@ -3,10 +3,6 @@ body {
 }
 
 #console {
-	.ascii-art {
-    font-family: monospace;
-    white-space: pre;
-}
 	font-family: courier, monospace;
 	color: #fff;
 	width:750px;
