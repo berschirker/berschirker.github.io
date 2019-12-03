@@ -2,7 +2,7 @@
         <script type="text/javascript">
              var ascii_text="LOVE AFFAIR";
              var ascii_style="isometric1";
-        </script><br/><br/></html>
+        </script></html><br/><br/>
 <span id="k">DO YOU LIKE TO PARTY? (Y/N)</span> <!-- sjkfhskjf -->
 
 Love Affair is currently looking for individuals with an interest in community
