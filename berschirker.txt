@@ -1,13 +1,12 @@
 <span id="a">LuV4FF41r69</span>:<span id="b">~</span><span id="c">$</span> cd LoveAffair/<!-- kjsdfhkjdhsfkjdshfkj -->README
 <span id="a">Fr06P0w3R</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->LuV4FF41r69.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+"<span id="k">Do you like to party?</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Love Affair is an open-source platform that aims to unleash the creativity of our community through technology, art, music, dance, fashion, and connection. Love Affair is collaborative and transparent in its entirety, it is a living product of all those who participate with their time, energy, and love.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>We are currently looking for individuals with an interest in community building to collaborate with us on our first event.</p><br>
+<p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->Love Affair is a decentralized non-profit organization made up of peers. It is organized as a series of autonomous sub-groups which directly interact with each other and share information or provide service to other sub-groups for the benefit of the organization as a whole. There is no single centralized authority that makes decisions on behalf of all the parties. Each sub-group makes decisions towards its individual goals.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><br><br>
+<p> In keeping with our commitment to absolute transparency, all information pertinent to Love Affair and its operations can be found in <a href="https://github.com/loveaffair69/loveaffair">this</a> GitHub repository.</p>
+<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+If you are interested in contributing, contact us at:<!-- slightdelayhere-->,<!-- longlonglongcomment --><a href="contribute@loveaffair.info">contribute@loveaffair.info</a>.
 
-<p>Cheers!</p>
+<p>We're in this together.</p>
