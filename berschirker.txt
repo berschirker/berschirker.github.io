@@ -1,12 +1,40 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-"<span id="k">DO YOU LIKE TO PARTY?</span>". <!-- sjkfhskjf -->
+<span id="a">SHREK</span>:<span id="b">~</span><span id="c">$</span> cd L0V34FF41R69/<!-- kjsdfhkjdhsfkjdshfkj -->README.md
+<span id="a">FP42K</span>:<span id="b">~</span><span id="c">$</span> cd <!-- kjsdfhkjdhsfkjdshfkj -->LA69WEBPAGE<br/><br/>
+"<span id="k">DO YOU LIKE TO PARTY? (Y/N)</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Love Affair is currently looking for individuals with an interest in community
+building to collaborate with us on our first event. No experience necessary. A
+list of responsibilities integral to the operation of Love Affair can be found
+[here](./COOPERATIONS.md).
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+If you are interested in working with us, but don't see anything listed that
+fits your skillset, please tell us how you would like to contribute. We are
+open to collaboration in all forms.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> # Love Affair
+
+## Mission
+
+Love Affair is an open-source event series that aims to unleash the
+creativity of our community through technology, art, music, dance, fashion, and
+connection. Love Affair is collaborative and transparent in its entirety, it is
+a living product of all those who participate with their time, energy, and love.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>**Our goals are to:**
+
+ - Create and maintain an outlet for self-expression
+ - Bridge social divide and encourage self-accountability
+ - Connect and collaborate with individuals and organizations across a shared vision
+ - Inspire the formation of new organizations and empower them to throw
+   incredible parties!
+ - Exemplify alternative organizational structures
+ - Reflect and serve the community <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>**Love Affair is committed to:**
+
+ - Incentivize direct action and encourage participation
+ - Address the systemic barriers of entry to community involvement, event planning, and community organization
+ - Document and credit all work done in the name of the organization
+ - Fair compensation for work
+ - Absolute Transparency
+ - Accountability to ourselves and our peers<br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
 
