@@ -3,6 +3,6 @@
 <p>We are currently looking for individuals with an interest in community building to collaborate with us on our first event.</p>
 <p>
 <p>For more information, visit us on <a href="https://github.com/loveaffair69/loveaffair" target="_blank"><span id="k">GitHub</span></a>.</p>
-<p>If you are interested in contributing, contact us at: <!-- longlonglongcomment --><a href="mailto:https://contribute@loveaffair.info"><span id="k">contribute@loveaffair.info</span></a></p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>If you are interested in contributing, contact us at: <!-- longlonglongcomment --><a href="mailto:contribute@loveaffair.info"><span id="k">contribute@loveaffair.info</span></a></p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- sjkfhskjf --><!-- kjsdfhkjdhsfkjdshfkj --><!-- kjsdfhkjdhsfkjdshfkj --><!-- kjsdfhkjdhsfkjdshfkj -->
 <p><span id="k">Do you like to party?</p></span>
