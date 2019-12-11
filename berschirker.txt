@@ -1,7 +1,8 @@
 <center><h3>Welcome to loveaffair.info</center></h3><br><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- sjkfhskjf --><!-- kjsdfhkjdhsfkjdshfkj --><!-- kjsdfhkjdhsfkjdshfkj --><!-- kjsdfhkjdhsfkjdshfkj -->
-<p>Love Affair is a decentralized non-profit organization dedicated to community engagement.<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> Our aim is to unleash the creativity of our community through technology, art, music, dance, fashion, and connection by providing space for creative expression. Love Affair is a living product of all those who participate with their time, energy, and love.<br></p>
-<p>We are currently looking for individuals with an interest in community building to collaborate with us on our first event, planned for mid February, 2020, in Guelph, Ontario, Canada.</p>
-<p>For more information, visit us on <a href="https://github.com/loveaffair69/loveaffair" target="_blank"><span id="k">GitHub</span></a>.</p>
-<p>If you are interested in contributing, contact us at: <!-- longlonglongcomment --><a href="mailto:contribute@loveaffair.info"><span id="k">contribute@loveaffair.info</span></a></p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p><center><span id="k">Do you like to party?</center></p></span>
+<p>Love Affair is a living product of all those who participate with their time, energy, and love.<br></p>
+<p>We are currently looking for individuals with an interest in community building to collaborate with us on our first event, planned for mid February, 2020, in Guelph, Ontario, Canada.</p><!-- longlonglongcomment -->
+<p>Find a list of roles to be filled <a href="https://github.com/loveaffair69/loveaffair/blob/master/COOPERATIONS.md#responsibilities"><span id="k">here</span></a></p>
+<p>For more information, visit us on <a href="https://github.com/loveaffair69/loveaffair" target="_blank"><span id="k">GitHub</span></a>.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>If you are interested in contributing, contact us at: <a href="mailto:contribute@loveaffair.info"><span id="k">contribute@loveaffair.info</span></a></p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p><center><span id="k">Do you like to party?</center></p></span>
 
