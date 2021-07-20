@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=2;
-Typer.file="berschirker.txt";
+Typer.file="casedisc.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
